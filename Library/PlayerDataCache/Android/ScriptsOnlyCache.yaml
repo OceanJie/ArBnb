@@ -938,4 +938,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/GoogleARCore/Examples/HelloAR/Scenes/HelloAR.unity
-  playerPath: D:/Documents/College/F2020/402C/Digital Concierge Mobile AR/Digital-Concierge-Mobile-AR/Build
+  playerPath: D:/Documents/College/F2020/402C/Digital Concierge Mobile AR/Digital-Concierge-Mobile-AR/Build/vm
